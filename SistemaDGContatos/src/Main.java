@@ -66,7 +66,7 @@ public class Main {
                         System.out.println("Contato encontrado:");
                         System.out.println("Nome: " + contatoEncontrado.getNome());
                         System.out.println("Telefone: " + contatoEncontrado.getTelefone());
-                        System.out.println("Endereço: " + contatoEncontrado.getCidade());
+                        System.out.println("Cidade: " + contatoEncontrado.getCidade());
                     } else {
                         System.out.println("Contato não encontrado!");
                     }
@@ -83,7 +83,7 @@ public class Main {
                         for (Contato contato : listaContatos) {
                             System.out.println("Nome: " + contato.getNome());
                             System.out.println("Telefone: " + contato.getTelefone());
-                            System.out.println("Endereço: " + contato.getCidade());
+                            System.out.println("Cidade: " + contato.getCidade());
                             System.out.println("-------------------------------");
                         }
                     }

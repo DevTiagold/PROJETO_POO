@@ -1,0 +1,37 @@
+ Aqui estão os casos de teste aspas:
+
+Caso de Teste 1:
+- Nome: João da Silva
+- Telefone: 1234567890
+- Cidade: São Paulo
+
+Caso de Teste 2:
+- Nome: Maria Oliveira
+- Telefone: 9876543210
+- Cidade: Rio de Janeiro
+
+Caso de Teste 3:
+- Nome: José Santos
+- Telefone: 5551234567
+- Cidade: Belo Horizonte
+
+Caso de Teste 4:
+- Nome: Ana Silva
+- Telefone: 9998887776
+- Cidade: São Paulo
+
+Caso de Teste 5:
+- Nome: Pedro Mendes
+- Telefone: 4443332221
+- Cidade: Porto Alegre
+
+Caso de Teste 6:
+- Nome: Carolina Sousa
+- Telefone: 7779998887
+- Cidade: Curitiba
+
+Caso de Teste 7:
+- Nome: Mariana Santos
+- Telefone: 1112223334
+- Cidade: São Paulo
+
